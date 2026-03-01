@@ -234,19 +234,19 @@ Fetch updated todos from chain
 ## 📸 Screenshots
 
 ### UI
-![UI](frontend/Level%203%20SS/UI.png.png)
+![UI](Level%203%20SS/UI.png.png)
 
 ### Wallet Connection
-![Wallet](frontend/Level%203%20SS/Wallet%20Connection.png.png)
+![Wallet](Level%203%20SS/Wallet%20Connection.png.png)
 
 ### Task Saved
-![Task Saved](frontend/Level%203%20SS/Task%20Saved.png.png)
+![Task Saved](Level%203%20SS/Task%20Saved.png.png)
 
 ### Completed Task
-![Completed](frontend/Level%203%20SS/Completed%20Task.png.png)
+![Completed](Level%203%20SS/Completed%20Task.png.png)
 
 ### Tests Passing
-![Tests](frontend/Level%203%20SS/Passed%20test.png.png)
+![Tests](Level%203%20SS/Passed%20test.png.png)
 
 ---
 
