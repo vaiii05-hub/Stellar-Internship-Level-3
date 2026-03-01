@@ -1,0 +1,29 @@
+{
+  "snapshots": [
+    {
+      "env": {
+        "storage": {
+          "todos": []
+        }
+      },
+      "fn": "add_todo",
+      "args": [
+        "Buy groceries"
+      ],
+      "result": {
+        "Ok": 0
+      },
+      "env_after": {
+        "storage": {
+          "todos": [
+            {
+              "id": 0,
+              "text": "Buy groceries",
+              "completed": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
