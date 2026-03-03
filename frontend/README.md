@@ -10,6 +10,8 @@ A fully on-chain Todo dApp built on the **Stellar blockchain** using **Soroban s
 
 📦 **GitHub:** [https://github.com/vaiii05-hub/Stellar-Internship-Level-3](https://github.com/vaiii05-hub/Stellar-Internship-Level-3)
 
+🎥 **Demo Video:** [https://drive.google.com/file/d/1BSHYh-omp1V0FRj4Mp9Y0bf0c4E6YVW7/view?usp=drive_link](https://drive.google.com/file/d/1BSHYh-omp1V0FRj4Mp9Y0bf0c4E6YVW7/view?usp=drive_link)
+
 🔑 **Contract ID:** CDPRB4H7NMOA6JGLPAHTLUMBWAYGYZ3563URVPDBAIZIXJCHY34IV6SP
 
 🌍 **Network:** Stellar Testnet
@@ -250,11 +252,11 @@ Fetch updated todos from chain
 
 ---
 
-
-
 ## 📝 Commit History
 
 ```
+✅ Fix screenshot paths in README
+✅ Update contract test snapshots for all todo operations
 ✅ Add complete README with setup and deployment instructions
 ✅ Add gitignore for contracts
 ✅ Add Soroban todo smart contract with add, complete, delete, get_todos functions
